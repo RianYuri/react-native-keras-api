@@ -1,0 +1,7 @@
+fastapi
+python-multipart
+pandas
+scikit-learn
+numpy
+matplotlib
+deap
